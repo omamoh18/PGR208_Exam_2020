@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoForeignLand_Exam_Pgr208</string>
+    <string name="no_foreign_land">No Foreign Land</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="button_pin">button_pin</string>
+    <string name="image_details">image_details</string>
+</resources>
